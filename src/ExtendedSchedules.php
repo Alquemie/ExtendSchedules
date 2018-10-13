@@ -47,8 +47,6 @@ if ( ! class_exists( 'ExtendSchedules' ) ) :
         
     }
 
-    new ExtendSchedules();
-
 endif;
 
 	
