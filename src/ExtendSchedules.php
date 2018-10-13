@@ -1,6 +1,6 @@
 <?php
 
-namespace Alquemie\WP;
+namespace Alquemie;
 
 if ( ! class_exists( 'ExtendSchedules' ) ) :
 
