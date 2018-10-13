@@ -1,5 +1,5 @@
 {
-    "name": "alquemie/ExtendedSchedules",
+    "name": "alquemie/ExtendSchedules",
     "description": "Expands Wordpress Cron Schedules to include 5 min, 15 min, weekly and monthly events",
     "license": "GPL-3.0",
     "keywords": ["cron", "php", "wordpress"],
