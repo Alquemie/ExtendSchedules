@@ -1,0 +1,24 @@
+{
+    "name": "alquemie/WordpressExtendedSchedules",
+    "description": "Expands Wordpress Cron Schedules to include 5 min, 15 min, weekly and monthly events",
+    "license": "GPL-3.0",
+    "keywords": ["cron", "php", "wordpress"],
+    "homepage": "https://github.com/alquemie/WordpressExtendedSchedules",
+    "authors": [
+        {
+            "name": "Chris Carrel",
+            "email": "support@alquemie.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+    },
+    "require-dev": {
+        "phpunit/phpunit": "7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alquemie\\WP\\": "src/"
+        }
+    }
+}
